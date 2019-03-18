@@ -18,8 +18,9 @@ class NextViewController: UIViewController {
         //ここが呼ばれる
         //次の画面へと書かれたラベルの文字を変更したい
         
-        changeLabel.text = "暗号が解除されました。"
+        changeLabel.text = "暗号が解除されそうでされませんでした。"
        //ffff
+       
         
     }
     override func viewDidLoad() {
